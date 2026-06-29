@@ -3,7 +3,9 @@
 🎓 CSE'28 @ Ramdeobaba University, Nagpur  
 💻 Java | DSA | Full-Stack Web Dev  
 🌱 Currently learning: Data Structures & Algorithms in Java  
-📫 Connect: [LinkedIn](your-linkedin-url)
+📫 Connect: [LinkedIn](www.linkedin.com/in/
+paritosh-upadhyay-548481334
+)
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
